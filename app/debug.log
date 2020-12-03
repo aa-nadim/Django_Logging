@@ -1,0 +1,10 @@
+2020-11-14 12:27:12,378 django.utils.autoreload INFO     D:\Programming\Python\Django-Tutorial\django-logging-master\app\hello\urls.py changed, reloading.
+2020-11-14 12:27:12,379 asyncio      DEBUG    Using selector: SelectSelector
+2020-11-14 12:29:21,378 django.utils.autoreload INFO     D:\Programming\Python\Django-Tutorial\django-logging-master\app\hello\urls.py changed, reloading.
+2020-11-14 12:29:21,379 asyncio      DEBUG    Using selector: SelectSelector
+2020-11-14 12:29:21,379 django.utils.autoreload INFO     D:\Programming\Python\Django-Tutorial\django-logging-master\app\hello\urls.py changed, reloading.
+2020-11-14 12:29:21,380 asyncio      DEBUG    Using selector: SelectSelector
+2020-11-14 12:30:20,253 django.utils.autoreload INFO     D:\Programming\Python\Django-Tutorial\django-logging-master\app\hello\urls.py changed, reloading.
+2020-11-14 12:30:20,254 asyncio      DEBUG    Using selector: SelectSelector
+2020-11-14 12:30:20,258 django.utils.autoreload INFO     D:\Programming\Python\Django-Tutorial\django-logging-master\app\hello\urls.py changed, reloading.
+2020-11-14 12:30:20,263 asyncio      DEBUG    Using selector: SelectSelector
