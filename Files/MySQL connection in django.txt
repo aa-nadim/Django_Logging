@@ -1,0 +1,31 @@
+C:\Users\Nadim\AppData\Local\Programs\Python\Python37
+
+import mysql.connector
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="root",
+  password="1234",
+  database="mydatabase"
+)
+mycursor = mydb.cursor()
+mycursor.execute("SELECT * FROM Customers")
+for x in mycursor:
+  print(x)
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'mydatabase',
+        'USER': 'root',
+        'PASSWORD': '1234',
+        'HOST': 'localhost',
+        'PORT': '3306',
+    }
+}
+
+'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+
+
+
+{{form.as_p}}
+    <input type="submit" value="Register" class="btn btn-success">

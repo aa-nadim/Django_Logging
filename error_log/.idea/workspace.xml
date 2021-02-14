@@ -36,7 +36,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csvfile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangoLogging2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,11 +60,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="933" y="190" key="FileChooserDialogImpl" timestamp="1606028452791">
+    <state x="933" y="190" key="FileChooserDialogImpl" timestamp="1607173406709">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="933" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606028452791" />
+    <state x="933" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1607173406709" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1607173018751">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1607173018751" />
   </component>
 </project>

@@ -1,0 +1,2 @@
+[01-Oct-2020 15:09:29 Asia/Dhaka] , PHP Notice: , Trying to get property 'message' of non-object in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 106
+[01-Oct-2020 15:09:29 Asia/Dhaka] , PHP Notice: , Undefined variable: message in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 129

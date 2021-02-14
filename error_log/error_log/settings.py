@@ -72,7 +72,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-import os
+
 LOGGING ={
     'version':1,
     'loggers':{
@@ -85,7 +85,7 @@ LOGGING ={
         'file':{
             'level':'INFO',
             'class': 'logging.FileHandler',
-            'filename':'./logs/debug.log',
+            'filename':'./debug.log',
         }
     },
 }

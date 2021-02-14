@@ -30,7 +30,6 @@ def addNew(request, someNumber):
 def addNewError(request, someNumber):
     val = {'response': 'Something Added New', 'numberGiven': someNumber}
     try:
-
         if someNumber > 50:
             logger.error('Something error wrong!')
             return JsonResponse(val, status=500)

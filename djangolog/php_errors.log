@@ -1,0 +1,99 @@
+[01-Oct-2020 15:09:29 Asia/Dhaka], PHP Notice:,  Trying to get property 'message' of non-object in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 106
+[01-Oct-2020 15:09:29 Asia/Dhaka], PHP Notice:,	Undefined variable: message in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 129
+[01-Oct-2020 15:13:00 Asia/Dhaka], PHP Notice:,  Trying to get property 'message' of non-object in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 106
+[01-Oct-2020 15:13:00 Asia/Dhaka], PHP Notice:,  Undefined variable: message in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 129
+[01-Oct-2020 15:14:07 Asia/Dhaka], PHP Notice:,  Undefined variable: jeson_result in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 145
+[01-Oct-2020 15:14:19 Asia/Dhaka], PHP Notice:,  Undefined variable: jeson_result in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 145
+[01-Oct-2020 15:15:51 Asia/Dhaka], PHP Notice:,  Trying to get property 'data' of non-object in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 106
+[01-Oct-2020 15:15:51 Asia/Dhaka], PHP Notice:,  Trying to get property 'message' of non-object in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 106
+[01-Oct-2020 15:15:51 Asia/Dhaka], PHP Notice:,  Undefined variable: message in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 129
+[01-Oct-2020 15:22:01 Asia/Dhaka], PHP Notice:,  Undefined variable: message in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 129
+[01-Oct-2020 15:22:01 Asia/Dhaka], PHP Notice:,  Undefined variable: jeson_result in D:\htdocs\easyjanata\jez_android_api\jez_billers\jez_api_bill_info.php on line 145
+[04-Oct-2020 14:21:21 Asia/Dhaka], PHP Notice:,  Undefined variable: userLevel in D:\htdocs\jbeasyjanata\jez_customer\cust_profile_list.php on line 104
+[04-Oct-2020 14:21:21 Asia/Dhaka], PHP Warning:,  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\htdocs\jbeasyjanata\jez_classes\clsdataview.php on line 139
+[04-Oct-2020 14:21:21 Asia/Dhaka], PHP Warning:,  sqlsrv_free_stmt() expects parameter 1 to be resource, bool given in D:\htdocs\jbeasyjanata\jez_classes\clsdataview.php on line 147
+[04-Oct-2020 14:21:51 Asia/Dhaka], PHP Warning:,  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\htdocs\jbeasyjanata\jez_classes\clsdataview.php on line 139
+[04-Oct-2020 14:21:51 Asia/Dhaka], PHP Warning:,  sqlsrv_free_stmt() expects parameter 1 to be resource, bool given in D:\htdocs\jbeasyjanata\jez_classes\clsdataview.php on line 147
+[04-Oct-2020 14:28:11 Asia/Dhaka], PHP Warning:,  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\htdocs\jbeasyjanata\jez_classes\clsdataview.php on line 139
+[04-Oct-2020 14:28:11 Asia/Dhaka], PHP Warning:,  sqlsrv_free_stmt() expects parameter 1 to be resource, bool given in D:\htdocs\jbeasyjanata\jez_classes\clsdataview.php on line 147
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:29:26 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:, Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined index: total_row in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 233
+[05-Oct-2020 11:30:22 Asia/Dhaka], PHP Notice:,  Undefined variable: nextansid in D:\htdocs\elearning\elearn_officers\clsofficersview.php on line 303
+[05-Oct-2020 11:32:54 Asia/Dhaka], PHP Notice:,  Undefined offset: 1 in D:\htdocs\elearning\elearn_classes\clsdatainsert.php on line 354
+[05-Oct-2020 11:32:57 Asia/Dhaka], PHP Notice:,  Undefined offset: 1 in D:\htdocs\elearning\elearn_classes\clsdatainsert.php on line 354
+[05-Oct-2020 11:33:03 Asia/Dhaka], PHP Notice:,  Undefined offset: 1 in D:\htdocs\elearning\elearn_classes\clsdatainsert.php on line 354
+[05-Oct-2020 11:33:05 Asia/Dhaka], PHP Notice:,  Undefined offset: 1 in D:\htdocs\elearning\elearn_classes\clsdatainsert.php on line 354
+[05-Oct-2020 11:45:10 Asia/Dhaka], PHP Warning:,  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\htdocs\elearning\elearn_classes\clsbasics.php on line 170
+[05-Oct-2020 11:45:17 Asia/Dhaka], PHP Warning:,  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\htdocs\elearning\elearn_classes\clsbasics.php on line 170
+[05-Oct-2020 11:54:44 Asia/Dhaka], PHP Warning:,  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\htdocs\elearning\elearn_co_ordinator\clscoordinatorview.php on line 56
+[05-Oct-2020 11:54:45 Asia/Dhaka], PHP Warning:,  sqlsrv_fetch_array() expects parameter 1 to be resource, bool given in D:\htdocs\elearning\elearn_co_ordinator\clscoordinatorview.php on line 56
+[05-Oct-2020 12:00:25 Asia/Dhaka], PHP Notice:,  Undefined offset: 1 in D:\htdocs\elearning\elearn_classes\clsdatainsert.php on line 354
+[05-Oct-2020 12:01:27 Asia/Dhaka], PHP Notice:,  Undefined offset: 1 in D:\htdocs\elearning\elearn_classes\clsdatainsert.php on line 354
+[05-Oct-2020 12:10:54 Asia/Dhaka], PHP Notice:,  Undefined offset: 1 in D:\htdocs\elearning\elearn_classes\clsdatainsert.php on line 354
+[05-Oct-2020 12:14:36 Asia/Dhaka], PHP Notice:,  Undefined offset: 1 in D:\htdocs\elearning\elearn_classes\clsdatainsert.php on line 354
+[06-Oct-2020 15:26:36 Asia/Dhaka], PHP Warning:,  fwrite() expects parameter 2 to be string, array given in D:\htdocs\easyjanata\jez_android_api\jez_pgateway\jez_api_paytrans_success.php on line 31
+
+
+
+
+
+
+
+

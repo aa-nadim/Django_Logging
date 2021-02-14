@@ -1,0 +1,110 @@
+INFO 2020-12-05 18:38:47,923 autoreload 12644 13564 Watching for file changes with StatReloader
+WARNING 2020-12-05 18:38:57,923 log 12644 9808 Not Found: /
+WARNING 2020-12-05 18:38:57,925 basehttp 12644 9808 "GET / HTTP/1.1" 404 2435
+WARNING 2020-12-05 18:38:58,062 log 12644 9808 Not Found: /favicon.ico
+WARNING 2020-12-05 18:38:58,063 basehttp 12644 9808 "GET /favicon.ico HTTP/1.1" 404 2486
+INFO 2020-12-05 18:39:17,486 basehttp 12644 9808 "GET /addUser HTTP/1.1" 301 0
+INFO 2020-12-05 18:39:17,494 views 12644 9808 >>>>>>>>>>>>>> Something Debug wrong!
+INFO 2020-12-05 18:39:17,496 basehttp 12644 9808 "GET /addUser/ HTTP/1.1" 200 26
+INFO 2020-12-05 18:40:51,524 basehttp 12644 9808 "GET /addSomething HTTP/1.1" 301 0
+WARNING 2020-12-05 18:40:51,531 views 12644 9808 Something warning wrong!
+INFO 2020-12-05 18:40:51,531 basehttp 12644 9808 "GET /addSomething/ HTTP/1.1" 200 31
+INFO 2020-12-05 18:42:00,837 basehttp 12644 9808 "GET /addNew HTTP/1.1" 301 0
+ERROR 2020-12-05 18:42:01,509 log 12644 9808 Internal Server Error: /addNew/
+Traceback (most recent call last):
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: addNew() missing 1 required positional argument: 'someNumber'
+ERROR 2020-12-05 18:42:01,509 basehttp 12644 9808 "GET /addNew/ HTTP/1.1" 500 66652
+ERROR 2020-12-05 18:43:10,955 log 12644 9808 Internal Server Error: /addNewError/
+Traceback (most recent call last):
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: addNewError() missing 1 required positional argument: 'someNumber'
+ERROR 2020-12-05 18:43:10,956 basehttp 12644 9808 "GET /addNewError/ HTTP/1.1" 500 66555
+ERROR 2020-12-05 18:43:34,928 log 12644 9808 Internal Server Error: /addNewError/
+Traceback (most recent call last):
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: addNewError() missing 1 required positional argument: 'someNumber'
+ERROR 2020-12-05 18:43:34,929 basehttp 12644 9808 "GET /addNewError/ HTTP/1.1" 500 66819
+INFO 2020-12-05 18:43:35,458 autoreload 12644 13564 E:\Django\Django_Logging\DjangoLogging\djangoLogging\urls.py changed, reloading.
+INFO 2020-12-05 18:43:36,255 autoreload 14872 9720 Watching for file changes with StatReloader
+WARNING 2020-12-05 18:43:37,309 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:37,310 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:39,258 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:39,259 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:40,039 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:40,041 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:40,398 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:40,399 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:40,585 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:40,585 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:40,754 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:40,755 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:40,936 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:40,937 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:41,091 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:41,092 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:41,786 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:41,786 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:41,958 log 14872 13196 Not Found: /addNewError/
+WARNING 2020-12-05 18:43:41,959 basehttp 14872 13196 "GET /addNewError/ HTTP/1.1" 404 2525
+WARNING 2020-12-05 18:43:46,920 log 14872 13196 Not Found: /
+WARNING 2020-12-05 18:43:46,921 basehttp 14872 13196 "GET / HTTP/1.1" 404 2471
+ERROR 2020-12-05 18:43:59,606 log 14872 13196 Internal Server Error: /addNew/<someNumber>
+Traceback (most recent call last):
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\Django_Logging\DjangoLogging\firstAPI\views.py", line 19, in addNew
+    val={'response':'Something Added New','numberGiven':int(someNumber)}
+ValueError: invalid literal for int() with base 10: '<someNumber>'
+ERROR 2020-12-05 18:43:59,607 basehttp 14872 13196 "GET /addNew/%3CsomeNumber%3E HTTP/1.1" 500 70597
+INFO 2020-12-05 18:44:10,258 autoreload 14872 9720 E:\Django\Django_Logging\DjangoLogging\djangoLogging\urls.py changed, reloading.
+INFO 2020-12-05 18:44:10,998 autoreload 14564 9524 Watching for file changes with StatReloader
+WARNING 2020-12-05 18:44:19,248 log 14564 11352 Not Found: /addNew/<someNumber>
+WARNING 2020-12-05 18:44:19,248 basehttp 14564 11352 "GET /addNew/%3CsomeNumber%3E HTTP/1.1" 404 2526
+ERROR 2020-12-05 18:44:23,227 log 14564 11352 Internal Server Error: /addNew/
+Traceback (most recent call last):
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: addNew() missing 1 required positional argument: 'someNumber'
+ERROR 2020-12-05 18:44:23,228 basehttp 14564 11352 "GET /addNew/ HTTP/1.1" 500 66564
+INFO 2020-12-05 18:52:18,954 autoreload 13552 8588 Watching for file changes with StatReloader
+WARNING 2020-12-05 18:52:22,512 log 14564 7700 Not Found: /
+WARNING 2020-12-05 18:52:22,512 basehttp 14564 7700 "GET / HTTP/1.1" 404 2435
+INFO 2020-12-05 18:52:44,032 basehttp 14564 7700 "GET /admin HTTP/1.1" 301 0
+INFO 2020-12-05 18:52:44,810 basehttp 14564 7700 "GET /admin/ HTTP/1.1" 302 0
+INFO 2020-12-05 18:52:45,309 basehttp 14564 7700 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+INFO 2020-12-05 18:52:45,415 basehttp 14564 9432 "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+INFO 2020-12-05 18:52:45,415 basehttp 14564 7700 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2020-12-05 18:52:45,415 basehttp 14564 8472 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+INFO 2020-12-05 18:52:45,431 basehttp 14564 7700 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-12-05 18:52:45,487 basehttp 14564 7700 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2020-12-05 18:52:45,567 basehttp 14564 9432 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-12-05 18:52:51,629 basehttp 14564 9432 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2020-12-05 18:52:51,805 basehttp 14564 9432 "GET /admin/ HTTP/1.1" 200 3043
+INFO 2020-12-05 18:52:51,845 basehttp 14564 9432 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2020-12-05 18:52:51,861 basehttp 14564 7700 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2020-12-05 18:52:51,901 basehttp 14564 8472 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2020-12-05 18:52:51,941 basehttp 14564 9432 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184

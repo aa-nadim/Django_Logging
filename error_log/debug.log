@@ -1,0 +1,21 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2465
+>>>>>>>>>>>>>> Something Debug wrong!
+"GET /addUser/ HTTP/1.1" 200 26
+E:\Django\Django_Logging\error_log\error_log\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Something warning wrong!
+"GET /addSomething/ HTTP/1.1" 200 31
+Internal Server Error: /addNew/<someNumber>
+Traceback (most recent call last):
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Abdul Awal Nadim\AppData\Roaming\Python\Python37\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\Django\Django_Logging\error_log\logg\views.py", line 22, in addNew
+    val = {'response': 'Something Added New', 'numberGiven': int(someNumber)}
+ValueError: invalid literal for int() with base 10: '<someNumber>'
+"GET /addNew/%3CsomeNumber%3E HTTP/1.1" 500 70163
